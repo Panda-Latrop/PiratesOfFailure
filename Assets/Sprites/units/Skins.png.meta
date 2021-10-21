@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: b0871e26bba2c3843893d389307249cd
+timeCreated: 1527777923
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skins_0
+    21300002: Skins_1
+    21300004: Skins_2
+    21300006: Skins_3
+    21300008: Skins_4
+    21300010: Skins_5
+    21300012: Skins_6
+    21300014: Skins_7
+    21300016: Skins_8
+    21300018: Skins_9
+    21300020: Skins_10
+    21300022: Skins_11
+    21300024: Skins_12
+    21300026: Skins_13
+    21300028: Skins_14
+    21300030: Skins_15
+    21300032: Skins_16
+    21300034: Skins_17
+    21300036: Skins_18
+    21300038: Skins_19
+    21300040: Skins_20
+    21300042: Skins_21
+    21300044: Skins_22
+    21300046: Skins_23
+    21300048: Skins_24
+    21300050: Skins_25
+    21300052: Skins_26
+    21300054: Skins_27
+    21300056: Skins_28
+    21300058: Skins_29
+    21300060: Skins_30
+    21300062: Skins_31
+    21300064: Skins_32
+    21300066: Skins_33
+    21300068: Skins_34
+    21300070: Skins_35
+    21300072: Skins_36
+    21300074: Skins_37
+    21300076: Skins_38
+    21300078: Skins_39
+    21300080: Skins_40
+    21300082: Skins_41
+    21300084: Skins_42
+    21300086: Skins_43
+    21300088: Skins_44
+    21300090: Skins_45
+    21300092: Skins_46
+    21300094: Skins_47
+    21300096: Skins_48
+    21300098: Skins_49
+    21300100: Skins_50
+    21300102: Skins_51
+    21300104: Skins_52
+    21300106: Skins_53
+    21300108: Skins_54
+    21300110: Skins_55
+    21300112: Skins_56
+    21300114: Skins_57
+    21300116: Skins_58
+    21300118: Skins_59
+    21300120: Skins_60
+    21300122: Skins_61
+    21300124: Skins_62
+    21300126: Skins_63
+    21300128: Skins_64
+    21300130: Skins_65
+    21300132: Skins_66
+    21300134: Skins_67
+    21300136: Skins_68
+    21300138: Skins_69
+    21300140: Skins_70
+    21300142: Skins_71
+    21300144: Skins_72
+    21300146: Skins_73
+    21300148: Skins_74
+    21300150: Skins_75
+    21300152: Skins_76
+    21300154: Skins_77
+    21300156: Skins_78
+    21300158: Skins_79
+    21300160: Skins_80
+    21300162: Skins_81
+    21300164: Skins_82
+    21300166: Skins_83
+    21300168: Skins_84
+    21300170: Skins_85
+    21300172: Skins_86
+    21300174: Skins_87
+    21300176: Skins_88
+    21300178: Skins_89
+    21300180: Skins_90
+    21300182: Skins_91
+    21300184: Skins_92
+    21300186: Skins_93
+    21300188: Skins_94
+    21300190: Skins_95
+    21300192: Skins_96
+    21300194: Skins_97
+    21300196: Skins_98
+    21300198: Skins_99
+    21300200: Skins_100
+    21300202: Skins_101
+    21300204: Skins_102
+    21300206: Skins_103
+    21300208: Skins_104
+    21300210: Skins_105
+    21300212: Skins_106
+    21300214: Skins_107
+    21300216: Skins_108
+    21300218: Skins_109
+    21300220: Skins_110
+    21300222: Skins_111
+    21300224: Skins_112
+    21300226: Skins_113
+    21300228: Skins_114
+    21300230: Skins_115
+    21300232: Skins_116
+    21300234: Skins_117
+    21300236: Skins_118
+    21300238: Skins_119
+    21300240: Skins_120
+    21300242: Skins_121
+    21300244: Skins_122
+    21300246: Skins_123
+    21300248: Skins_124
+    21300250: Skins_125
+    21300252: Skins_126
+    21300254: Skins_127
+    21300256: Skins_128
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skins_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 446
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 446
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 446
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 412
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 412
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 412
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 378
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 378
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 378
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_19
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 446
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 446
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 446
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 446
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 412
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 412
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 412
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_27
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 412
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 378
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 378
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 378
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 378
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_35
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 446
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 446
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_38
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_39
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 412
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 412
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_42
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 412
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_43
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 412
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 378
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_45
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 378
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 378
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_47
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 378
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 344
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 344
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 344
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_54
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 310
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_55
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 310
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 310
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_58
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 276
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_59
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 276
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 276
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_65
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 344
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_66
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 344
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_67
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 344
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_68
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 344
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_69
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 310
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 310
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_71
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 310
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_72
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 310
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 276
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 276
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_75
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 276
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_76
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 276
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_77
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_78
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_79
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_80
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_81
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 344
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_82
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 344
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_83
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 344
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_84
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 344
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_85
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 310
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_86
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 310
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_87
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 310
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_88
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 310
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_89
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 276
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_90
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 276
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_91
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 276
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_92
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 276
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_93
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_94
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_95
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_96
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 242
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_97
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 208
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_98
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 208
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_99
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 208
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_100
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 208
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_101
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 174
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_102
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 174
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_103
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 174
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_104
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 174
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_105
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 140
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_106
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_107
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 140
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_108
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 140
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_109
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 106
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_110
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 106
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_111
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 106
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_112
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 106
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_114
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 208
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_115
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 208
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_116
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 208
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_117
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 174
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_118
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 174
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 174
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_120
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 174
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_121
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 140
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_122
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 140
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_123
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 140
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_124
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 140
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_125
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 106
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_126
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 106
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_127
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 106
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Skins_128
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 106
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
